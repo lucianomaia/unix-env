@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/lmaia/bomnegocio/php/payment/include'
+let g:netrw_dirhist_2='/home/lmaia/bomnegocio/www/js'
+let g:netrw_dirhist_3='/home/lmaia/bomnegocio/www/js/mobile'
+let g:netrw_dirhist_4='/home/lmaia/bomnegocio/www/js'
+let g:netrw_dirhist_5='/home/lmaia/bomnegocio/templates/email/scarface'
